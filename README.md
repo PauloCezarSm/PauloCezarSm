@@ -8,8 +8,12 @@
 
 <br>
 <div align="center" style="display: flex; justify-content: center; gap:10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=PauloCezarSm&show_icons=true&hide_border=true&theme=blue-green&bg_color=ffffff00" width="63%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloCezarSm&custom_title=Linguagens%20Mais%20Usadas&hide_border=true&theme=blue-green&bg_color=ffffff00" width="32%" />
+    <a href="https://github.com/PauloCezarSm" target="_blank" style="display: inline-block;">
+        <img src="https://github-readme-stats.vercel.app/api?username=PauloCezarSm&show_icons=true&hide_border=true&theme=blue-green&bg_color=ffffff00" width="63%" />
+    </a>
+    <a href="https://github.com/PauloCezarSm" target="_blank" style="display: inline-block;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloCezarSm&custom_title=Linguagens%20Mais%20Usadas&hide_border=true&theme=blue-green&bg_color=ffffff00" width="32%" />
+    </a>
 </div>
 <div align="center">
 
