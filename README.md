@@ -25,9 +25,12 @@
           <img src="https://github-readme-activity-graph.vercel.app/graph?username=PauloCezarSm&bg_color=0e0a19&color=edfdef&line=0dba10&point=1cfd36&area=true&hide_border=true" alt="GitHub Activity Graph" />
       </a>
   </div>
-  <div align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=PauloCezarSm&theme=onedark" />
-  </div>
+<div align="center">
+    <a href="https://github.com/PauloCezarSm" target="_blank" style="display: inline-block;">
+        <img src="https://github-profile-trophy.vercel.app/?username=PauloCezarSm&theme=onedark" alt="GitHub Trophy" />
+    </a>
+</div>
+
 </div>
 
 <div style="display: inline_block;"><br/>
