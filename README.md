@@ -17,7 +17,9 @@
 </div>
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PauloCezarSm&hide_border=true&theme=blue-green&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+<a href="https://github.com/PauloCezarSm" target="_blank" style="display: inline-block;">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=PauloCezarSm&hide_border=true&theme=blue-green&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900" alt="GitHub Streak" />
+</a>
   <div align="center" style="border-radius: 15px; overflow: hidden;">
       <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
           <img src="https://github-readme-activity-graph.vercel.app/graph?username=PauloCezarSm&bg_color=0e0a19&color=edfdef&line=0dba10&point=1cfd36&area=true&hide_border=true" alt="GitHub Activity Graph" />
